@@ -1,0 +1,14 @@
+{
+  "name": "polynomial-secret-solver",
+  "version": "1.0.0",
+  "description": "Polynomial Secret Solver using Lagrange Interpolation for Catalog Placements Assignment",
+  "main": "solve.js",
+  "scripts": {
+    "start": "node solve.js",
+    "test1": "node solve.js testcase1.json",
+    "test2": "node solve.js testcase2.json"
+  },
+  "keywords": ["polynomial", "interpolation", "secret-sharing", "lagrange", "catalog-placements"],
+  "author": "Student",
+  "license": "MIT"
+}
